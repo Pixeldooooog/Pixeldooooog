@@ -45,7 +45,7 @@ The ones worth keeping become philosophy by accident.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,python,postgres,docker&theme=dark" alt="Selected tools" />
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,py,postgres,docker&theme=dark" alt="Selected tools" />
 
 </div>
 
