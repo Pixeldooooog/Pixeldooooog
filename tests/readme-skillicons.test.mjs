@@ -17,3 +17,10 @@ test('README uses supported skillicons slugs', () => {
   );
   assert.ok(slugs.includes('py'), 'README should use the supported Python skillicons slug');
 });
+
+test('README avoids unstable external stats cards', () => {
+  assert.ok(
+    !readme.includes('github-readme-stats.vercel.app'),
+    'README should not embed github-readme-stats cards that can render as broken images on GitHub',
+  );
+});

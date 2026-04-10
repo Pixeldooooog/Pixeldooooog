@@ -39,12 +39,6 @@ The ones worth keeping become philosophy by accident.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pixeldooooog&show_icons=false&hide_border=true&bg_color=00000000&title_color=C7C7C7&text_color=A0A0A0&ring_color=C7C7C7&include_all_commits=true&count_private=true" alt="GitHub stats" />
-
-</div>
-
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=ts,react,nodejs,py,postgres,docker&theme=dark" alt="Selected tools" />
 
 </div>
