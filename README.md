@@ -16,6 +16,10 @@
 
 ---
 
+## Products
+
+- [GoldMonitor · 黄金主盘](https://github.com/Pixeldooooog/GoldMonitor) — A native macOS menu bar app for ICBC, Shanghai and international gold prices, with per-market price alerts.
+
 Most software tries to be seen before it becomes worth seeing.
 
 This place prefers the opposite.
